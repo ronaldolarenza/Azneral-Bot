@@ -1,6 +1,6 @@
 {
-  "name": "BOT-SPACE FROM BASE KAMPANG-BOT",
-  "description": "[SPACE BOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database, which can be coupled up with Mongo DB and a Redis backend",
+  "name": "BOT-AZNERAL FROM BASE KAMPANG-BOT",
+  "description": "[AZNERAL BOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database, which can be coupled up with Mongo DB and a Redis backend",
   "logo": "https://telegra.ph/file/2bd77e1e48b8982d7f0c0.jpg",
   "keywords": [
     "telegram",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/AngkasaBoy/Space-Bot",
+  "repository": "https://github.com/ronaldolarenza/Space-Bot",
   "website": "https://telegra.ph/How-to-host-a-Telegram-Userbot-11-02",
-  "success_url": "https://t.me/leoangkasaaa",
+  "success_url": "https://t.me/hirascal",
   "stack": "container",
   "env": {
     "API_KEY": {
@@ -150,7 +150,7 @@
     },
     "DEFAULT_BIO": {
       "description": "Default profile bio.",
-      "value": "SPACE-BOT",
+      "value": "AZNERAL-BOT",
       "required": false
     },
     "ALIVE_NAME": {
