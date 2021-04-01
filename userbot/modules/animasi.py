@@ -318,6 +318,20 @@ async def typewriter(typew):
     await typew.edit("**♪┗ ( ･o･) ┓♪┏ (・o･) ┛♪**")
 
 
+@register(outgoing=True, pattern='^.fuck(?: |$)(.*)')
+async def typewriter(typew):
+    typew.pattern_match.group(1)
+    await typew.edit(".                       /¯ )\n"
+                     "                      /¯  /\n"
+                     "                    /    /\n"
+                     "              /´¯/'   '/´¯¯`•¸\n"
+                     "          /'/   /    /       /¨¯\\ \n"
+                     "        ('(   (   (   (  ¯~/'  ')\n"
+                     "         \\                        /\n"
+                     "          \\                _.•´\n"
+                     "            \\              (\n"
+                     "              \\  ")
+
 CMD_HELP.update(
     {
         "animasi": "`.bulan` ; `.hati` ; `.bernyanyi`\
