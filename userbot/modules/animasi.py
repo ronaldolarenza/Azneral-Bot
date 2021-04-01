@@ -318,7 +318,7 @@ async def typewriter(typew):
     await typew.edit("**♪┗ ( ･o･) ┓♪┏ (・o･) ┛♪**")
 
 
-@register(outgoing=True, pattern='^.fuck(?: |$)(.*)')
+@register(outgoing=True, pattern='^.puck(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(".                       /¯ )\n"
