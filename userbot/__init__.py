@@ -166,7 +166,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "SPACE-BOT")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "AZNERAL-BOT")
 
 # Bot version
 BOT_VER = os.environ.get("BOT_VER", "4.0")
@@ -318,7 +318,7 @@ with bot:
 
 
 async def check_alive():
-    await bot.send_message(BOTLOG_CHATID, "```SPACE-BOT 🚀\nTELAH DIAKTIFKAN```")
+    await bot.send_message(BOTLOG_CHATID, "```AZNERAL-BOT ツ\nTELAH DIAKTIFKAN```")
     return
 
 with bot:
@@ -389,7 +389,7 @@ with bot:
         @tgbot.on(events.NewMessage(pattern="/start"))
         async def handler(event):
             if event.message.from_id != uid:
-                await event.reply("I'm [SPACE BOT](https://github.com/AngkasaBoy/Space-Bot) modules helper...\nplease make your own bot, don't use mine 😋")
+                await event.reply("I'm [AZNERAL BOT](https://github.com/ronaldolarenza/Azneral-Bot) modules helper...\nplease make your own bot, don't use mine 😋")
             else:
                 await event.reply(f"`Hey there {ALIVE_NAME}\n\nI work for you :)`")
 
@@ -402,8 +402,8 @@ with bot:
                 buttons = paginate_help(0, dugmeler, "helpme")
                 result = builder.article(
                     "Please Use Only With .help Command",
-                    text="{}\nTotal loaded Modules: {}\n               \n🚀 **MODULE INFO SPACE-BOT** \n".format(
-                        "🚀 SPACE-BOT modules helper",
+                    text="{}\nTotal loaded Modules: {}\n               \nツ **MODULE INFO AZNERAL-BOT** \n".format(
+                        "ツ AZNERAL-BOT modules helper",
                         len(dugmeler),
                     ),
                     buttons=buttons,
@@ -411,22 +411,22 @@ with bot:
                 )
             elif query.startswith("tb_btn"):
                 result = builder.article(
-                    "🚀 SPACE-BOT Helper",
+                    "ツ AZNERAL-BOT Helper",
                     text="List of Modules",
                     buttons=[],
                     link_preview=True)
             else:
                 result = builder.article(
-                    "BOT SPACE",
+                    "BOT AZNERAL",
                     text="""You can convert your account to bot and use them. Remember, you can't manage someone else's bot! All installation details are explained from GitHub address below.""",
                     buttons=[
                         [
                             custom.Button.url(
                                 "GitHub Repo",
-                                "https://github.com/AngkasaBoy/Space-Bot"),
+                                "https://github.com/ronaldolarenza/Azneral-Bot"),
                             custom.Button.url(
                                 "Support",
-                                "https://t.me/storyangkasa")],
+                                "https://t.me/hirascal")],
                     ],
                     link_preview=False,
                 )
