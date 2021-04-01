@@ -80,5 +80,5 @@ async def ultiny(event):
 CMD_HELP.update(
     {
         "tiny": ".tiny\
-    \nTiny tiny lapyuuuu."
+    \nMerubah Ukuran Stiker."
     })
