@@ -239,7 +239,7 @@ async def amireallyalive(alive):
         f"ツ **ᴘʏᴛʜᴏɴ**   \n   ➲ `Versi {python_version()}` \n"
         f"ツ **ʙᴏᴛ ᴠᴇʀsɪᴏɴ**\n   ➲ `{BOT_VER}` \n"
         f"ツ **ᴍᴏᴅᴜʟᴇ**    \n   ➲ `{len(modules)}` \n\n"
-        f"ツ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [AZNERAL-BOT](https://github.com/ronaldolarenza/Space-Bot)\nツ **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ: **[CHANNEL](https://t.me/kataazneral)\nツ **sᴜᴘᴘᴏʀᴛ ʙʏ:** [Ronaldo Larenza](t.me/hirascal)\n"
+        f"ツ **ʀᴇᴘᴏsɪᴛᴏʀʏ :** [AZNERAL-BOT](https://github.com/ronaldolarenza/Azneral-Bot)\nツ **sᴜᴘᴘᴏʀᴛ ᴄʜᴀɴɴᴇʟ: **[CHANNEL](https://t.me/bestparrtt)\nツ **sᴜᴘᴘᴏʀᴛ ʙʏ:** [Ronaldo Larenza](t.me/hirascal)\n"
         f"**❱╾-----╼❰ ᴜꜱᴇʀ-ʙᴏᴛ ❱╾-----╼❰**")
 
     if ALIVE_LOGO:
