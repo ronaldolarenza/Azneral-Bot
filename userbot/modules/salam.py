@@ -16,7 +16,7 @@ async def typewriter(typew):
     sleep(3)
     await typew.edit("`PANTEK PANTEK PANTEK!!!`")
     sleep(3)
-    await typew.edit("`DASAR MUKA JELEK!!!`")
+    await typew.edit("` MUKA LU JELEK KONTOL!!!`")
 # Owner @Si_Dian
 
 
@@ -24,7 +24,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit(f"**ANGKASA BAWA BOTOL**")
+    await typew.edit(f"**AZNERAL BAWA BOTOL**")
     sleep(3)
     await typew.edit("`KALIAN SEMUA JAMET TOLOL!!!`")
 # Owner @Si_Dian
@@ -34,7 +34,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit(f"**ANGKASA BAWA BOTOL**")
+    await typew.edit(f"**AZNERAL BAWA BOTOL**")
     sleep(3)
     await typew.edit("`KALIAN SEMUA PANTEK PEOPLE!!!`")
 # Owner @Si_Dian
@@ -64,7 +64,7 @@ async def typewriter(typew):
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
-    await typew.edit("`Bentar Gua Jawab Salam Lu...`")
+    await typew.edit("`Nah Sicakep salam,jawab ah`")
     sleep(1)
     await typew.edit("`وَعَلَيْكُمُ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ`")
 # Owner @Si_Dian
