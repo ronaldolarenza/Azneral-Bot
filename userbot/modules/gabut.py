@@ -56,7 +56,6 @@ async def pingme(pong):
 
 
 @register(outgoing=True, pattern='^\\.kntl(?: |$)(.*)')
-)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(1)
