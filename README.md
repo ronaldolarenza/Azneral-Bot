@@ -20,11 +20,11 @@
 <h2 align="center"><b>CHANNEL OFFICIAL: <a href="https://telegram.dog/bestparrtt">CHANNEL</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/ronaldolarenza/Azneral-Bot"><img src="https://telegra.ph/file/9ff45dd6812f6ac179145.jpg" alt="SPACE-BOT" width=400px></a>
+   <a href="https://github.com/ronaldolarenza/Azneral-Bot"><img src="https://telegra.ph/file/eb6acdda6588a3b5ad7e1.jpg" alt="AZNERAL-BOT" width=400px></a>
    <br>
    <br>
 </p>
-<h1>SPACE-BOT</h1>
+<h1>AZNERAL-BOT</h1>
 <b>BASE BOT FROM: <a href="https://github.com/ManusiaRakitan/Kampang-Bot">KAMPANG-BOT!</b>
 <br>
 <br>
