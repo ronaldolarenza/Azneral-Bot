@@ -262,7 +262,7 @@ async def koc(e):
         await e.edit("`Maaf Ga Dulu` **ミ(ノ;_ _)ノ** ")
 
 
-@bot.on(events.NewMessage(pattern=r"\.(.*)", outgoing=True))
+@bot.on(events.NewMessage(pattern="^.cinta(?: |$)(.*)")", outgoing=True))
 async def _(event):
 
     if event.fwd_from:
@@ -327,7 +327,7 @@ async def typewriter(typew):
 # Create by myself @localheart
 
 
-@register(outgoing=True, pattern='^.fck(?: |$)(.*)')
+@register(outgoing=True, pattern="^.fck(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     await typew.edit(".                       /¯ )\n"
