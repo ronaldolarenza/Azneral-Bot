@@ -262,7 +262,7 @@ async def koc(e):
         await e.edit("`Maaf Ga Dulu` **ミ(ノ;_ _)ノ** ")
 
 
-@bot.on(events.NewMessage(pattern="^.cinta(?: |$)(.*)")", outgoing=True))
+@register(outgoing=True, pattern="^.cinta(?: |$)(.*)")
 async def _(event):
 
     if event.fwd_from:
