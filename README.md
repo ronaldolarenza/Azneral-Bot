@@ -57,7 +57,7 @@
 
 * DENGAN HEROKU:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/ronaldolarenza/Azneral-Bot/tree/Kampang"><img src="https://telegra.ph/file/4fe21d234c46b6ea4d41e.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ronaldolarenza/Azneral-Bot/tree/Kampang"><img src="https://telegra.ph/file/2c519bbc5991a87cdfc08.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
