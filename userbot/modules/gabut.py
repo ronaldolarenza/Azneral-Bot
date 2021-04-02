@@ -55,7 +55,7 @@ async def pingme(pong):
                     f"\n ⫸ ᴱᴷˢᴱᴷᵁᵀᴼᴿ『`{ALIVE_NAME}`』 \n" % (duration))
 
 
-@register(outgoing=True, pattern='^\\.kntl(?: |$)(.*
+@register(outgoing=True, pattern='^\\.kntl(?: |$)(.*)')
 )')
 async def typewriter(typew):
     typew.pattern_match.group(1)
