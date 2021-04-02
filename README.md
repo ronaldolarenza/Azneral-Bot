@@ -17,10 +17,10 @@
 
 # Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Telegram-Paperplane)
 
-<h2 align="center"><b>CHANNEL OFFICIAL: <a href="https://telegram.dog/storyangkasa">CHANNEL🚀</a></b></h2>
+<h2 align="center"><b>CHANNEL OFFICIAL: <a href="https://telegram.dog/bestparrtt">CHANNEL</a></b></h2>
 <br>
 <p align="center">
-   <a href="https://github.com/AngkasaBoy/Space-Bot"><img src="https://telegra.ph/file/9ff45dd6812f6ac179145.jpg" alt="SPACE-BOT" width=400px></a>
+   <a href="https://github.com/ronaldolarenza/Azneral-Bot"><img src="https://telegra.ph/file/9ff45dd6812f6ac179145.jpg" alt="SPACE-BOT" width=400px></a>
    <br>
    <br>
 </p>
@@ -57,7 +57,7 @@
 
 * DENGAN HEROKU:
 <p align="center">
-   <a href = "https://heroku.com/deploy?template=https://github.com/AngkasaBoy/Space-Bot/tree/Kampang"><img src="https://telegra.ph/file/04bff83ac45be821eb4a7.jpg" alt="Press to Takeoff" width="490px"></a>
+   <a href = "https://heroku.com/deploy?template=https://github.com/ronaldolarenza/Azneral-Bot/tree/Kampang"><img src="https://telegra.ph/file/eb6acdda6588a3b5ad7e1.jpg" alt="Press to Takeoff" width="490px"></a>
 </p>
 <br>
 
