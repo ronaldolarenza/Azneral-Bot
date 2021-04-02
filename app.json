@@ -1,7 +1,7 @@
 {
   "name": "BOT-AZNERAL FROM BASE KAMPANG-BOT",
   "description": "[AZNERAL BOT] A modular Telegram userbot running on Python 3.7+ with an sqlalchemy database, which can be coupled up with Mongo DB and a Redis backend",
-  "logo": "https://telegra.ph/file/2bd77e1e48b8982d7f0c0.jpg",
+  "logo": "https://telegra.ph/file/eb6acdda6588a3b5ad7e1.jpg",
   "keywords": [
     "telegram",
     "userbot",
